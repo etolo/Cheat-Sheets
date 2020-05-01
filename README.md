@@ -1,4 +1,4 @@
-# Cheat sheets
+# Cheat sheets & guides
 
 #### [1. GNU Emacs on Unix & Windows (by me)](./win-emacs.MD)
 
