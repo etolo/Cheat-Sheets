@@ -37,7 +37,17 @@ Exit (prompts to save): Ctrl + X C
 
 Save & Exit = Ctrl + X S  followed by Ctrl + X C
 
-## Syntax highlighting specials
+## Advanced edit multiple lines at once
+
+https://stackoverflow.com/questions/761706/in-emacs-edit-multiple-lines-at-once
+
+http://ergoemacs.org/emacs/emacs_string-rectangle_ascii-art.html
+
+## Advanced auto-indent
+
+https://stackoverflow.com/questions/823745/how-do-i-make-emacs-auto-indent-my-c-code
+
+## Advanced Syntax highlighting specials
 
 M-x phps-mode	// toggles php syntax highlights on/off
 // requires phps-mode (0.3.44) Major mode for PHP with Semantic integration
